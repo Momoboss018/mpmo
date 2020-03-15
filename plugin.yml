@@ -1,0 +1,12 @@
+name : Hammer
+main : MOMOBOSS018\Hammer\main
+api : [3.0.0]
+version : 2.0.0
+author : Pauloo/MOMOBOSS
+
+
+  commands :
+     hammer :
+     
+     description : "Hammer Par Pauloo"
+     permission : hammer.use
